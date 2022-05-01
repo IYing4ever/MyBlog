@@ -2,7 +2,7 @@
 ;(function () {
   var style1 = 'background:#4BB596;color:#ffffff;border-radius: 2px;'
   var style2 = 'color:auto;'
-  var author = ' TMaize'
+  var author = ' IYing '
   var github = 'https://iying4ever.github.io/MyBlog'
   var build = ' ' + blog.buildAt.substr(0, 4)
   build += '/' + blog.buildAt.substr(4, 2)
